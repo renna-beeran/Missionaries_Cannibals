@@ -20,6 +20,6 @@ Objective: Successfully transfer all missionaries and cannibals to the opposite 
 
 Interactive Gameplay: Players can input their moves to transfer characters across the river.
 
-Visual Representation: Displaying the current state of the game graphically helps players strategize their moves.
+Visual Representation: Displaying the current state of the game helps players strategize their moves.
 
 Constraint Validation: The game ensures moves are valid according to the specified rules.
